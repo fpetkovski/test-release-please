@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/fpetkovski/test-release-please/compare/v1.0.0...v1.1.0) (2021-10-09)
+
+
+### Features
+
+* remove package name ([285b6e0](https://www.github.com/fpetkovski/test-release-please/commit/285b6e071a5ebd196f4a46e03d99c87803ff6a00))
+
 ## 1.0.0 (2021-10-09)
 
 
