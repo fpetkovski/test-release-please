@@ -9,7 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: GoogleCloudPlatform/release-please-action@v2
+        env:
+          branch: "${GITHUB_REF#refs/heads/}"
         with:
           token: ${{ secrets.PRIVATE_TOKEN }}
           release-type: go
-          default-branch: "${GITHUB_REF#refs/heads/}"
+          default-branch: ${{ env.branch }}
