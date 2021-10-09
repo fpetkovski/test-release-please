@@ -11,4 +11,3 @@ jobs:
         with:
           token: ${{ secrets.PRIVATE_TOKEN }}
           release-type: go
-          package-name: fpetkovski/test-release-please
