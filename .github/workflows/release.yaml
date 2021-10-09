@@ -8,8 +8,14 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
       - uses: GoogleCloudPlatform/release-please-action@v2
+        env:
+          branch: "${GITHUB_REF#refs/heads/}"
         with:
           token: ${{ secrets.PRIVATE_TOKEN }}
           release-type: go
-          default-branch: "${GITHUB_REF#refs/heads/}"
+          default-branch: ${{ steps.extract_branch.outputs.branch }}
