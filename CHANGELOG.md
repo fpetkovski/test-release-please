@@ -1,5 +1,21 @@
 # Changelog
 
+## [3.0.0-rc0](https://www.github.com/fpetkovski/test-release-please/compare/v2.1.0...v3.0.0-rc0) (2021-10-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* wrong
+
+### Bug Fixes
+
+* wrong ([fd06c1a](https://www.github.com/fpetkovski/test-release-please/commit/fd06c1a315809cded27ac80d24e80837f91c7183))
+
+
+### Miscellaneous Chores
+
+* release 3.0.0-rc0 ([54fff98](https://www.github.com/fpetkovski/test-release-please/commit/54fff98b5f144065f1d08cc3261196e03ad815f0))
+
 ## [2.1.0](https://www.github.com/fpetkovski/test-release-please/compare/v2.0.1...v2.1.0) (2021-10-09)
 
 
