@@ -2,7 +2,7 @@ on:
   push:
     branches:
       - main
-      - release-v*
+      - release-[0-9]*
 name: release-please
 jobs:
   release-please:
