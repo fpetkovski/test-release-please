@@ -2,6 +2,7 @@ on:
   push:
     branches:
       - main
+      - release-[0-9]*
 name: release-please
 jobs:
   release-please:
@@ -11,3 +12,4 @@ jobs:
         with:
           token: ${{ secrets.PRIVATE_TOKEN }}
           release-type: go
+          default-branch: "${GITHUB_REF#refs/heads/}"
