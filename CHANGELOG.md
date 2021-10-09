@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.1.0](https://www.github.com/fpetkovski/test-release-please/compare/v2.0.1...v2.1.0) (2021-10-09)
+
+
+### Features
+
+* another awesome feature ([3802c4c](https://www.github.com/fpetkovski/test-release-please/commit/3802c4cf3c64e7a3a82e4befee7c1127e617cdd7))
+* implement awesome feature ([1ebe2c2](https://www.github.com/fpetkovski/test-release-please/commit/1ebe2c21cb3ac1a9010e83d94391ff41b5e9db77))
+
 ### [2.0.1](https://www.github.com/fpetkovski/test-release-please/compare/v2.0.0...v2.0.1) (2021-10-09)
 
 
