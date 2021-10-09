@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.1](https://www.github.com/fpetkovski/test-release-please/compare/v2.0.0...v2.0.1) (2021-10-09)
+
+
+### Bug Fixes
+
+* ci ([98b4e53](https://www.github.com/fpetkovski/test-release-please/commit/98b4e53a0f0bcb7a4efeca695f1140b2c1490739))
+
 ## [2.0.0](https://www.github.com/fpetkovski/test-release-please/compare/v1.1.0...v2.0.0) (2021-10-09)
 
 
