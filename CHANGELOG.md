@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://www.github.com/fpetkovski/test-release-please/compare/v1.1.0...v2.0.0) (2021-10-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* break
+
+### Bug Fixes
+
+* break ([3422bc1](https://www.github.com/fpetkovski/test-release-please/commit/3422bc1a8b8ece6a44fe7240c57378ff3f993c1e))
+
 ## [1.1.0](https://www.github.com/fpetkovski/test-release-please/compare/v1.0.0...v1.1.0) (2021-10-09)
 
 
