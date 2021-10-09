@@ -1,5 +1,14 @@
 # Changelog
 
+### [1.1.1](https://www.github.com/fpetkovski/test-release-please/compare/v1.1.0...v1.1.1) (2021-10-09)
+
+
+### Bug Fixes
+
+* add backport to 1.1.0 ([26261cc](https://www.github.com/fpetkovski/test-release-please/commit/26261ccee3eef057f3ecf2f6283823dcf80944cd))
+* ci ([31d483c](https://www.github.com/fpetkovski/test-release-please/commit/31d483cde80234044b8f39b6a45095888b6abcb5))
+* ci ([3828e84](https://www.github.com/fpetkovski/test-release-please/commit/3828e84d69a383fede5873a8809be63836997d77))
+
 ## [1.1.0](https://www.github.com/fpetkovski/test-release-please/compare/v1.0.0...v1.1.0) (2021-10-09)
 
 
