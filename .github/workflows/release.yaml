@@ -10,5 +10,5 @@ jobs:
       - uses: GoogleCloudPlatform/release-please-action@v2
         with:
           token: ${{ secrets.PRIVATE_TOKEN }}
-          release-type: node
-          package-name: release-please-action
+          release-type: go
+          package-name: fpetkovski/test-release-please
