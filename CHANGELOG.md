@@ -1,5 +1,32 @@
 # Changelog
 
+## [3.0.0-rc1](https://www.github.com/fpetkovski/test-release-please/compare/v2.1.0...v3.0.0-rc1) (2021-10-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* wrong
+
+### Features
+
+* feat4 ([a0bd831](https://www.github.com/fpetkovski/test-release-please/commit/a0bd8316a524430757f23ac564c1eebcc521a015))
+
+
+### Bug Fixes
+
+* wrong ([fd06c1a](https://www.github.com/fpetkovski/test-release-please/commit/fd06c1a315809cded27ac80d24e80837f91c7183))
+
+
+### Performance Improvements
+
+* Improve performance 10fold ([45d4cb5](https://www.github.com/fpetkovski/test-release-please/commit/45d4cb50989978386079331a4b183152e1cf66f3))
+
+
+### Miscellaneous Chores
+
+* release 3.0.0-rc0 ([54fff98](https://www.github.com/fpetkovski/test-release-please/commit/54fff98b5f144065f1d08cc3261196e03ad815f0))
+* release 3.0.0-rc1 ([99b68b8](https://www.github.com/fpetkovski/test-release-please/commit/99b68b88ce53169f18d4794996b8e7a13dbf21e2))
+
 ## [2.1.0](https://www.github.com/fpetkovski/test-release-please/compare/v2.0.1...v2.1.0) (2021-10-09)
 
 
